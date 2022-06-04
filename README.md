@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The project I've been working on for my school class. You can use it to plan your life
 
 ### Try my app: todo/build/app/outputs/flutter-apk/app-realease.apk
 
